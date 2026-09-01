@@ -1,5 +1,5 @@
 {
-  "name": "bycldf",
+  "name": "bycld",
   "version": "1.0.0",
   "description": "Captcha bypass and token harvester module",
   "main": "src/index.js",
